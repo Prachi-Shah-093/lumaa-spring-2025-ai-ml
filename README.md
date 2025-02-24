@@ -1,12 +1,11 @@
 🎬 Movie Recommendation System
+Prachi Shah | Arizona State University | 📧 ppshah@asu.edu | LinkedIn: https://www.linkedin.com/in/prachi-shah-04ba66203/
 
-Author: Prachi Shah | Arizona State University | 📧 ppshah@asu.edu | LinkedIn
 📌 Dataset Source
-
 After searching online, I found a dataset on DoltHub, which filters through public datasets. The specific dataset I used is publicly available on GitHub:
-🔗 Netflix/metaflow - movies.csv
-
+🔗 Netflix/metaflow - movies.csv: https://github.com/Netflix/metaflow/blob/master/metaflow/tutorials/01-playlist/movies.csv
 ⚠ NOTE: The original dataset was too large. It has been reduced to 500 rows (without sorting) to meet challenge specifications.
+
 🛠 Setup Guide (Windows OS)
 🔹 Python Version
 
