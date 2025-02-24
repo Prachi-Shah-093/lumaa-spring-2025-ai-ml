@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Prachi Shah | Arizona State University  
-📧 Email: ppshah@asu.edu  
+📧 Email: ppshah18@asu.edu  
 🔗 LinkedIn: [Prachi Shah](https://www.linkedin.com/in/prachi-shah-04ba66203/)  
 
 ---
