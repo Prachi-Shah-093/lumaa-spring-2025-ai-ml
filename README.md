@@ -1,91 +1,47 @@
-# AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
+Prachi Shah | Arizona State University | ppshah@asu.edu | LinkedIn: https://www.linkedin.com/in/prachi-shah-04ba66203/
 
-**Deadline**: Sunday, Feb 23th 11:59 pm PST
 
----
+1) Where is the dataset from?
 
-## Overview
+    - After doing some searching on the internet, I found a website called dolt.com what filters through public datasets. The following I found to use for this challenge is stored publicly on Github: https://github.com/Netflix/metaflow/blob/master/metaflow/tutorials/01-playlist/movies.csv
+    
+    - **PLEASE NOTE: The original database is too large. It has been cut down to 500 rows (without sorting) as per the challenge's specifications. 
 
-Build a **content-based recommendation system** that, given a **short text description** of a user’s preferences, suggests **similar items** (e.g., movies) from a small dataset. This challenge should take about **3 hours**, so keep your solution **simple** yet **functional**.
+2) Setup (Windows OS)
 
-### Example Use Case
+    - Python Version: 3.13.2
+    I used the following link's instructions to download and install the latest Python version:
+    https://www.pythoncentral.io/how-to-update-python/
 
-- The user inputs:  
-  *"I love thrilling action movies set in space, with a comedic twist."*  
-- Your system processes this description (query) and compares it to a dataset of items (e.g., movies with their plot summaries or keywords).  
-- You then return the **top 3–5 “closest” matches** to the user.
+    - Python Dependencies
+    Make sure to run the following dependencies for the code to run:
+        pip install pandas scikit-learn
 
----
+    - IDE: Visual Studio Code
+    My choice of IDE was V.S. Code. The following link has a list of instructions to run python code for this IDE:
+    https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows
 
-## Requirements
+    Extensions:
+    - For easier execution, I use the Code Runner Extention on V.S. Code. Just head over to the Extentions tab on left of the window and type "Code Runner." Install it, then go to your code and click on the Run/Play Button. 
+    - This is a great extention to use compared to typing out the whole directory path for a .py file.
 
-1. **Dataset**  
-   - Use a **small** public dataset of items (e.g., a list of movies with plot summaries, or other textual descriptions).  
-   - Make sure the dataset is easy to handle (maybe 100–500 rows) so the solution remains quick to implement and run.  
-   - Include the dataset in your forked repository *or* provide instructions/link on how to download it.  
+3) Running Code
 
-2. **Approach**  
-   - **Content-Based**: At a minimum, use text similarity to recommend items.  
-     - For instance, you can transform both the user’s text input and each item’s description into TF-IDF vectors and compute **cosine similarity**.  
-   - Return the **top N** similar items (e.g., top 5).
+    - Make sure to download the "movies.csv" file of the movies dataset and put it within your project folder.
+    - The code resides within the Main.py file. Click on the Run/Play Button. You will be met with the following question: "What movie genres do you feel like watching?"
+    - Answer the question by typing at least one genre you like (E.g. Fantasy, Adventure, etc.).
+    - Press the "Enter" key and the top five results closest to your input will display, along with the "Similarity Score".
 
-3. **Code Organization**  
-   - You may use a **Jupyter Notebook** or **Python scripts**.  
-   - Keep it **readable** and **modular** (e.g., one section for loading data, one for building vectors, one for computing similarity, etc.).  
-   - Briefly comment or docstring your key functions/sections.
+4) Results
 
-4. **Output**  
-   - When given an input description (e.g., `"I like action movies set in space"`), your system should print or return a list of recommended items (e.g., 3–5 titles).  
-   - Include the similarity score or rank if you’d like.
+    - Sample Query: "I like D&D, so how about I watch a movie with Fantasy, Romance, and Adventure?"
+    - Results: 
 
-5. **Summary & Instructions**  
-   - A short `README.md` that includes:
-     - **Dataset**: Where it’s from, any steps to load it.  
-     - **Setup**: Python version, virtual environment instructions, and how to install dependencies (`pip install -r requirements.txt`).  
-     - **Running**: How to run your code (e.g., `python recommend.py "Some user description"` or open your notebook in Jupyter).  
-     - **Results**: A brief example of your system’s output for a sample query.
+        Based on your input, you may like the following top 5 picks. Enjoy!
 
----
+        Prince of Persia: The Sands of Time - Similarity Score: 0.9332846116984514
+        Spider-Man 2 - Similarity Score: 0.9332846116984514
+        Spider-Man - Similarity Score: 0.9332846116984514
+        The Twilight Saga: Breaking Dawn - Part 2 - Similarity Score: 0.8599389206686123
+        The Twilight Saga: Breaking Dawn - Part 2 - Similarity Score: 0.8599389206686123
 
-## Deliverables
-
-1. **Fork the Public Repository**  
-   - **Fork** this repo into your own GitHub account.
-
-2. **Implement Your Solution**  
-   - Load and preprocess your dataset (e.g., read CSV, handle text columns).  
-   - Convert text data to vectors (e.g., TF-IDF).  
-   - Implement a function to compute similarity between the user’s query and each item’s description.  
-   - Return the top matches.
-   - Salary expectation per month (Mandatory)
-
-3. **Short Video Demo**  
-   - In a `.md` file (e.g., `demo.md`) within your fork, paste a link to a **brief screen recording** (video link).  
-   - Demonstrate:
-     - How you run the recommendation code.  
-     - A sample query and the results.
-
-4. **Deadline**  
-   - Submit your fork by **Sunday, Feb 23th 11:59 pm PST**.
-
-> **Note**: This should be doable within ~3 hours. Keep it **straightforward**—you do **not** need advanced neural networks or complex pipelines. A simple TF-IDF + cosine similarity approach is sufficient.
-
----
-
-## Evaluation Criteria
-
-1. **Functionality**  
-   - Does your code run without errors?  
-   - When given an input query, does it successfully output relevant items?
-
-2. **Code Quality**  
-   - Clear, commented code (where it counts).  
-   - Logical steps (load data → transform → recommend).
-
-3. **Clarity**  
-   - Is your `README.md` straightforward about setup, how to run, and what to expect?
-
-4. **ML/Recommendation Understanding**  
-   - Basic implementation of a content-based recommendation approach (vectorization, similarity measure).
-
-**We look forward to seeing your solution!** Good luck!

@@ -1,0 +1,501 @@
+movie_title,title_year,genres,gross
+Avatar,2009,Action|Adventure|Fantasy|Sci-Fi,760505847
+Pirates of the Caribbean: At World's End,2007,Action|Adventure|Fantasy,309404152
+Spectre,2015,Action|Adventure|Thriller,200074175
+The Dark Knight Rises,2012,Action|Thriller,448130642
+John Carter,2012,Action|Adventure|Sci-Fi,73058679
+Spider-Man 3,2007,Action|Adventure|Romance,336530303
+Tangled,2010,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,200807262
+Avengers: Age of Ultron,2015,Action|Adventure|Sci-Fi,458991599
+Harry Potter and the Half-Blood Prince,2009,Adventure|Family|Fantasy|Mystery,301956980
+Batman v Superman: Dawn of Justice,2016,Action|Adventure|Sci-Fi,330249062
+Superman Returns,2006,Action|Adventure|Sci-Fi,200069408
+Quantum of Solace,2008,Action|Adventure,168368427
+Pirates of the Caribbean: Dead Man's Chest,2006,Action|Adventure|Fantasy,423032628
+The Lone Ranger,2013,Action|Adventure|Western,89289910
+Man of Steel,2013,Action|Adventure|Fantasy|Sci-Fi,291021565
+The Chronicles of Narnia: Prince Caspian,2008,Action|Adventure|Family|Fantasy,141614023
+The Avengers,2012,Action|Adventure|Sci-Fi,623279547
+Pirates of the Caribbean: On Stranger Tides,2011,Action|Adventure|Fantasy,241063875
+Men in Black 3,2012,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,179020854
+The Hobbit: The Battle of the Five Armies,2014,Adventure|Fantasy,255108370
+The Amazing Spider-Man,2012,Action|Adventure|Fantasy,262030663
+Robin Hood,2010,Action|Adventure|Drama|History,105219735
+The Hobbit: The Desolation of Smaug,2013,Adventure|Fantasy,258355354
+The Golden Compass,2007,Adventure|Family|Fantasy,70083519
+King Kong,2005,Action|Adventure|Drama|Romance,218051260
+Titanic,1997,Drama|Romance,658672302
+Captain America: Civil War,2016,Action|Adventure|Sci-Fi,407197282
+Battleship,2012,Action|Adventure|Sci-Fi|Thriller,65173160
+Jurassic World,2015,Action|Adventure|Sci-Fi|Thriller,652177271
+Skyfall,2012,Action|Adventure|Thriller,304360277
+Spider-Man 2,2004,Action|Adventure|Fantasy|Romance,373377893
+Iron Man 3,2013,Action|Adventure|Sci-Fi,408992272
+Alice in Wonderland,2010,Adventure|Family|Fantasy,334185206
+X-Men: The Last Stand,2006,Action|Adventure|Fantasy|Sci-Fi|Thriller,234360014
+Monsters University,2013,Adventure|Animation|Comedy|Family|Fantasy,268488329
+Transformers: Revenge of the Fallen,2009,Action|Adventure|Sci-Fi,402076689
+Transformers: Age of Extinction,2014,Action|Adventure|Sci-Fi,245428137
+Oz the Great and Powerful,2013,Adventure|Family|Fantasy,234903076
+The Amazing Spider-Man 2,2014,Action|Adventure|Fantasy|Sci-Fi,202853933
+TRON: Legacy,2010,Action|Adventure|Sci-Fi,172051787
+Cars 2,2011,Adventure|Animation|Comedy|Family|Sport,191450875
+Green Lantern,2011,Action|Adventure|Sci-Fi,116593191
+Toy Story 3,2010,Adventure|Animation|Comedy|Family|Fantasy,414984497
+Terminator Salvation,2009,Action|Adventure|Sci-Fi,125320003
+Furious 7,2015,Action|Crime|Thriller,350034110
+World War Z,2013,Action|Adventure|Horror|Sci-Fi|Thriller,202351611
+X-Men: Days of Future Past,2014,Action|Adventure|Fantasy|Sci-Fi|Thriller,233914986
+Star Trek Into Darkness,2013,Action|Adventure|Sci-Fi,228756232
+Jack the Giant Slayer,2013,Adventure|Fantasy,65171860
+The Great Gatsby,2013,Drama|Romance,144812796
+Prince of Persia: The Sands of Time,2010,Action|Adventure|Fantasy|Romance,90755643
+Pacific Rim,2013,Action|Adventure|Sci-Fi,101785482
+Transformers: Dark of the Moon,2011,Action|Adventure|Sci-Fi,352358779
+Indiana Jones and the Kingdom of the Crystal Skull,2008,Action|Adventure|Fantasy,317011114
+Brave,2012,Adventure|Animation|Comedy|Family|Fantasy,237282182
+Star Trek Beyond,2016,Action|Adventure|Sci-Fi|Thriller,130468626
+WALL·E,2008,Adventure|Animation|Family|Sci-Fi,223806889
+Rush Hour 3,2007,Action|Comedy|Crime|Thriller,140080850
+2012,2009,Action|Adventure|Sci-Fi,166112167
+A Christmas Carol,2009,Animation|Drama|Family|Fantasy,137850096
+Jupiter Ascending,2015,Action|Adventure|Sci-Fi,47375327
+The Legend of Tarzan,2016,Action|Adventure|Drama|Romance,124051759
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Adventure|Family|Fantasy,291709845
+X-Men: Apocalypse,2016,Action|Adventure|Sci-Fi,154985087
+The Dark Knight,2008,Action|Crime|Drama|Thriller,533316061
+Up,2009,Adventure|Animation|Comedy|Family,292979556
+Monsters vs. Aliens,2009,Action|Adventure|Animation|Comedy|Family|Sci-Fi,198332128
+Iron Man,2008,Action|Adventure|Sci-Fi,318298180
+Hugo,2011,Adventure|Drama|Family|Mystery,73820094
+Wild Wild West,1999,Action|Comedy|Sci-Fi|Western,113745408
+The Mummy: Tomb of the Dragon Emperor,2008,Action|Adventure|Fantasy|Horror|Thriller,102176165
+Suicide Squad,2016,Action|Adventure|Comedy|Sci-Fi,161087183
+Evan Almighty,2007,Comedy|Family|Fantasy,100289690
+Edge of Tomorrow,2014,Action|Adventure|Sci-Fi,100189501
+Waterworld,1995,Action|Adventure|Sci-Fi|Thriller,88246220
+G.I. Joe: The Rise of Cobra,2009,Action|Adventure|Sci-Fi|Thriller,150167630
+Inside Out,2015,Adventure|Animation|Comedy|Drama|Family|Fantasy,356454367
+The Jungle Book,2016,Adventure|Drama|Family|Fantasy,362645141
+Iron Man 2,2010,Action|Adventure|Sci-Fi,312057433
+Snow White and the Huntsman,2012,Action|Adventure|Drama|Fantasy,155111815
+Maleficent,2014,Action|Adventure|Family|Fantasy|Romance,241407328
+Dawn of the Planet of the Apes,2014,Action|Adventure|Drama|Sci-Fi,208543795
+47 Ronin,2013,Action|Adventure|Drama|Fantasy,38297305
+Captain America: The Winter Soldier,2014,Action|Adventure|Sci-Fi,259746958
+Shrek Forever After,2010,Adventure|Animation|Comedy|Family|Fantasy,238371987
+Tomorrowland,2015,Action|Adventure|Family|Mystery|Sci-Fi,93417865
+Big Hero 6,2014,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,222487711
+Wreck-It Ralph,2012,Adventure|Animation|Comedy|Family|Sci-Fi,189412677
+The Polar Express,2004,Adventure|Animation|Family|Fantasy,665426
+Independence Day: Resurgence,2016,Action|Adventure|Sci-Fi,102315545
+How to Train Your Dragon,2010,Adventure|Animation|Family|Fantasy,217387997
+Terminator 3: Rise of the Machines,2003,Action|Sci-Fi,150350192
+Guardians of the Galaxy,2014,Action|Adventure|Sci-Fi,333130696
+Interstellar,2014,Adventure|Drama|Sci-Fi,187991439
+Inception,2010,Action|Adventure|Sci-Fi|Thriller,292568851
+The Fast and the Furious,2001,Action|Crime|Thriller,144512310
+The Curious Case of Benjamin Button,2008,Drama|Fantasy|Romance,127490802
+X-Men: First Class,2011,Action|Adventure|Sci-Fi,146405371
+The Hunger Games: Mockingjay - Part 2,2015,Adventure|Sci-Fi,281666058
+The Sorcerer's Apprentice,2010,Action|Adventure|Family|Fantasy,63143812
+Poseidon,2006,Action|Adventure|Drama|Thriller,60655503
+Alice Through the Looking Glass,2016,Adventure|Family|Fantasy,76846624
+Shrek the Third,2007,Adventure|Animation|Comedy|Family|Fantasy,320706665
+Warcraft,2016,Action|Adventure|Fantasy,46978995
+Terminator Genisys,2015,Action|Adventure|Sci-Fi,89732035
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,Adventure|Family|Fantasy,104383624
+Pearl Harbor,2001,Action|Drama|History|Romance|War,198539855
+Transformers,2007,Action|Adventure|Sci-Fi,318759914
+Alexander,2004,Action|Adventure|Biography|Drama|History|Romance|War,34293771
+Harry Potter and the Order of the Phoenix,2007,Adventure|Family|Fantasy|Mystery,292000866
+Harry Potter and the Goblet of Fire,2005,Adventure|Family|Fantasy|Mystery,289994397
+Hancock,2008,Action|Drama,227946274
+I Am Legend,2007,Drama|Horror|Sci-Fi,256386216
+Charlie and the Chocolate Factory,2005,Adventure|Comedy|Family|Fantasy,206456431
+Ratatouille,2007,Animation|Comedy|Family|Fantasy,206435493
+Batman Begins,2005,Action|Adventure,205343774
+Madagascar: Escape 2 Africa,2008,Action|Adventure|Animation|Comedy|Family,179982968
+Night at the Museum: Battle of the Smithsonian,2009,Adventure|Comedy|Family|Fantasy,177243721
+X-Men Origins: Wolverine,2009,Action|Adventure|Fantasy|Sci-Fi|Thriller,179883016
+The Matrix Revolutions,2003,Action|Sci-Fi,139259759
+Frozen,2013,Adventure|Animation|Comedy|Family|Fantasy|Musical,400736600
+The Matrix Reloaded,2003,Action|Sci-Fi,281492479
+Thor: The Dark World,2013,Action|Adventure|Fantasy,206360018
+Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi|Thriller,153629485
+Angels & Demons,2009,Mystery|Thriller,133375846
+Thor,2011,Action|Adventure|Fantasy,181015141
+Bolt,2008,Adventure|Animation|Comedy|Drama|Family,114053579
+G-Force,2009,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,119420252
+Wrath of the Titans,2012,Action|Adventure|Fantasy,83640426
+Dark Shadows,2012,Comedy|Fantasy|Horror,79711678
+Mission: Impossible - Rogue Nation,2015,Action|Adventure|Thriller,195000874
+The Wolfman,2010,Drama|Fantasy|Horror|Thriller,61937495
+The Legend of Tarzan,2016,Action|Adventure|Drama|Romance,124051759
+Bee Movie,2007,Adventure|Animation|Comedy|Family,126597121
+Kung Fu Panda 2,2011,Action|Adventure|Animation|Comedy|Family,165230261
+The Last Airbender,2010,Action|Adventure|Family|Fantasy,131564731
+Mission: Impossible III,2006,Action|Adventure|Thriller,133382309
+White House Down,2013,Action|Drama|Thriller,73103784
+Mars Needs Moms,2011,Action|Adventure|Animation|Comedy|Family|Sci-Fi,21379315
+Flushed Away,2006,Adventure|Animation|Comedy|Family,64459316
+Pan,2015,Adventure|Family|Fantasy,34964818
+Mr. Peabody & Sherman,2014,Adventure|Animation|Comedy|Family|Sci-Fi,111505642
+Troy,2004,Adventure,133228348
+Madagascar 3: Europe's Most Wanted,2012,Adventure|Animation|Comedy|Family,216366733
+Die Another Day,2002,Action|Adventure|Thriller,160201106
+Ghostbusters,2016,Action|Comedy|Fantasy|Sci-Fi,118099659
+Armageddon,1998,Action|Adventure|Sci-Fi|Thriller,201573391
+Men in Black II,2002,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,190418803
+Beowulf,2007,Action|Adventure|Animation|Fantasy,82161969
+Kung Fu Panda 3,2016,Action|Adventure|Animation|Comedy|Family,143523463
+Mission: Impossible - Ghost Protocol,2011,Action|Adventure|Thriller,209364921
+Rise of the Guardians,2012,Adventure|Animation|Family|Fantasy,103400692
+Fun with Dick and Jane,2005,Comedy|Crime,110332737
+The Last Samurai,2003,Action|Drama|History|War,111110575
+Exodus: Gods and Kings,2014,Action|Adventure|Drama,65007045
+Star Trek,2009,Action|Adventure|Sci-Fi,257704099
+Spider-Man,2002,Action|Adventure|Fantasy|Romance,403706375
+How to Train Your Dragon 2,2014,Action|Adventure|Animation|Comedy|Family|Fantasy,176997107
+Gods of Egypt,2016,Action|Adventure|Fantasy,31141074
+Stealth,2005,Action|Adventure|Sci-Fi|Thriller,31704416
+Watchmen,2009,Action|Drama|Mystery|Sci-Fi,107503316
+Lethal Weapon 4,1998,Action|Crime|Thriller,129734803
+Hulk,2003,Action|Sci-Fi,132122995
+G.I. Joe: Retaliation,2013,Action|Adventure|Sci-Fi|Thriller,122512052
+Sahara,2005,Action|Adventure|Comedy|Thriller,68642452
+Final Fantasy: The Spirits Within,2001,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,32131830
+Captain America: The First Avenger,2011,Action|Adventure|Sci-Fi,176636816
+The World Is Not Enough,1999,Action|Adventure|Thriller,126930660
+Master and Commander: The Far Side of the World,2003,Action|Adventure|Drama|History|War,93926386
+The Twilight Saga: Breaking Dawn - Part 2,2012,Adventure|Drama|Fantasy|Romance,292298923
+Happy Feet 2,2011,Animation|Comedy|Family|Musical,63992328
+The Incredible Hulk,2008,Action|Adventure|Sci-Fi,134518390
+The BFG,2016,Adventure|Family|Fantasy,52792307
+The Revenant,2015,Adventure|Drama|Thriller|Western,183635922
+Turbo,2013,Adventure|Animation|Comedy|Family|Sport,83024900
+Rango,2011,Adventure|Animation|Comedy|Family|Western,123207194
+Penguins of Madagascar,2014,Adventure|Animation|Comedy|Family,83348920
+The Bourne Ultimatum,2007,Action|Mystery|Thriller,227137090
+Kung Fu Panda,2008,Action|Adventure|Animation|Comedy|Family,215395021
+Ant-Man,2015,Action|Adventure|Comedy|Sci-Fi,180191634
+The Hunger Games: Catching Fire,2013,Adventure|Sci-Fi|Thriller,424645577
+The Twilight Saga: Breaking Dawn - Part 2,2012,Adventure|Drama|Fantasy|Romance,292298923
+Home,2015,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,177343675
+War of the Worlds,2005,Adventure|Sci-Fi|Thriller,234277056
+Bad Boys II,2003,Action|Comedy|Crime|Thriller,138396624
+Puss in Boots,2011,Action|Adventure|Animation|Comedy|Family|Fantasy,149234747
+Salt,2010,Action|Crime|Mystery|Thriller,118311368
+Noah,2014,Action|Adventure|Drama,101160529
+The Adventures of Tintin,2011,Action|Adventure|Family|Mystery,77564037
+Harry Potter and the Prisoner of Azkaban,2004,Adventure|Family|Fantasy|Mystery,249358727
+Australia,2008,Adventure|Drama|Romance|War,49551662
+After Earth,2013,Action|Adventure|Sci-Fi,60522097
+Dinosaur,2000,Adventure|Animation|Family|Thriller,137748063
+Night at the Museum: Secret of the Tomb,2014,Adventure|Comedy|Family|Fantasy,113733726
+Megamind,2010,Action|Animation|Comedy|Family|Sci-Fi,148337537
+Harry Potter and the Sorcerer's Stone,2001,Adventure|Family|Fantasy,317557891
+R.I.P.D.,2013,Action|Comedy|Fantasy,33592415
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action|Adventure|Fantasy,305388685
+The Hunger Games: Mockingjay - Part 1,2014,Adventure|Sci-Fi|Thriller,337103873
+The Da Vinci Code,2006,Mystery|Thriller,217536138
+Rio 2,2014,Adventure|Animation|Comedy|Family|Musical,131536019
+X-Men 2,2003,Action|Adventure|Fantasy|Sci-Fi|Thriller,214948780
+Fast Five,2011,Action|Crime|Thriller,209805005
+Sherlock Holmes: A Game of Shadows,2011,Action|Adventure|Crime|Mystery|Thriller,186830669
+Clash of the Titans,2010,Action|Adventure|Fantasy,163192114
+Total Recall,1990,Action|Sci-Fi,119412921
+The 13th Warrior,1999,Action|Adventure|History,32694788
+The Bourne Legacy,2012,Action|Adventure|Thriller,113165635
+Batman & Robin,1997,Action,107285004
+How the Grinch Stole Christmas,2000,Comedy|Family|Fantasy,260031035
+The Day After Tomorrow,2004,Action|Adventure|Sci-Fi|Thriller,186739919
+Mission: Impossible II,2000,Action|Adventure|Thriller,215397307
+The Perfect Storm,2000,Action|Adventure|Drama|Thriller,182618434
+Fantastic 4: Rise of the Silver Surfer,2007,Action|Adventure|Sci-Fi|Thriller,131920333
+Life of Pi,2012,Adventure|Drama|Fantasy,124976634
+Ghost Rider,2007,Action|Fantasy|Thriller,115802596
+Jason Bourne,2016,Action|Thriller,108521835
+Charlie's Angels: Full Throttle,2003,Action|Adventure|Comedy|Crime,100685880
+Prometheus,2012,Adventure|Mystery|Sci-Fi,126464904
+Stuart Little 2,2002,Adventure|Animation|Comedy|Family|Fantasy,64736114
+Elysium,2013,Action|Drama|Sci-Fi|Thriller,93050117
+The Chronicles of Riddick,2004,Action|Adventure|Sci-Fi|Thriller,57637485
+RoboCop,2014,Action|Crime|Sci-Fi|Thriller,58607007
+Speed Racer,2008,Action|Family|Sport,43929341
+How Do You Know,2010,Comedy|Drama|Romance,30212620
+Knight and Day,2010,Action|Comedy|Romance,76418654
+Oblivion,2013,Action|Adventure|Mystery|Sci-Fi,89021735
+Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Fantasy|Sci-Fi,380262555
+Star Wars: Episode II - Attack of the Clones,2002,Action|Adventure|Fantasy|Sci-Fi,310675583
+"Monsters, Inc.",2001,Adventure|Animation|Comedy|Family|Fantasy,289907418
+The Wolverine,2013,Action|Adventure|Sci-Fi|Thriller,132550960
+Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Fantasy|Sci-Fi,474544677
+The Croods,2013,Adventure|Animation|Comedy|Family|Fantasy,187165546
+Windtalkers,2002,Action|Drama|War,40911830
+The Huntsman: Winter's War,2016,Action|Adventure|Drama|Fantasy,47952020
+Teenage Mutant Ninja Turtles,2014,Action|Adventure|Comedy|Sci-Fi,190871240
+Gravity,2013,Adventure|Drama|Sci-Fi|Thriller,274084951
+Dante's Peak,1997,Action|Adventure|Thriller,67155742
+Fantastic Four,2015,Action|Adventure|Sci-Fi,56114221
+Night at the Museum,2006,Action|Adventure|Comedy|Family|Fantasy,250863268
+San Andreas,2015,Action|Adventure|Drama|Thriller,155181732
+Tomorrow Never Dies,1997,Action|Adventure|Thriller,125332007
+The Patriot,2000,Action|Drama|History|War,113330342
+Ocean's Twelve,2004,Crime|Thriller,125531634
+Mr. & Mrs. Smith,2005,Action|Comedy|Crime|Romance|Thriller,186336103
+Insurgent,2015,Adventure|Sci-Fi|Thriller,129995817
+The Aviator,2004,Biography|Drama,102608827
+Gulliver's Travels,2010,Adventure|Comedy|Family|Fantasy,42776259
+The Green Hornet,2011,Action|Comedy|Crime|Sci-Fi|Thriller,98780042
+300: Rise of an Empire,2014,Action|Drama|Fantasy|War,106369117
+The Smurfs,2011,Adventure|Animation|Comedy|Family|Fantasy,142614158
+Home on the Range,2004,Animation|Comedy|Family|Music|Western,50026353
+Allegiant,2016,Action|Adventure|Mystery|Sci-Fi|Thriller,66002193
+Real Steel,2011,Action|Drama|Sci-Fi|Sport,85463309
+The Smurfs 2,2013,Adventure|Animation|Comedy|Family|Fantasy,71017784
+Speed 2: Cruise Control,1997,Action|Crime|Romance|Thriller,48068396
+Ender's Game,2013,Action|Sci-Fi,61656849
+Live Free or Die Hard,2007,Action|Adventure|Thriller,134520804
+The Lord of the Rings: The Fellowship of the Ring,2001,Action|Adventure|Drama|Fantasy,313837577
+Around the World in 80 Days,2004,Action|Adventure|Comedy,24004159
+Ali,2001,Biography|Drama|Sport,58183966
+The Cat in the Hat,2003,Adventure|Comedy|Family|Fantasy,100446895
+"I, Robot",2004,Action|Mystery|Sci-Fi|Thriller,144795350
+Kingdom of Heaven,2005,Action|Adventure|Drama|History|War,47396698
+Stuart Little,1999,Adventure|Comedy|Family|Fantasy,140015224
+The Princess and the Frog,2009,Animation|Family|Fantasy|Musical|Romance,104374107
+The Martian,2015,Adventure|Drama|Sci-Fi,228430993
+The Island,2005,Action|Adventure|Romance|Sci-Fi|Thriller,35799026
+Town & Country,2001,Comedy|Romance,6712451
+Gone in Sixty Seconds,2000,Action|Crime|Thriller,101643008
+Gladiator,2000,Action|Drama|Romance,187670866
+Minority Report,2002,Action|Mystery|Sci-Fi|Thriller,132014112
+Harry Potter and the Chamber of Secrets,2002,Adventure|Family|Fantasy|Mystery,261970615
+Casino Royale,2006,Action|Adventure|Thriller,167007184
+Planet of the Apes,2001,Action|Adventure|Sci-Fi|Thriller,180011740
+Terminator 2: Judgment Day,1991,Action|Sci-Fi,204843350
+Public Enemies,2009,Biography|Crime|Drama|History|Romance,97030725
+American Gangster,2007,Biography|Crime|Drama,130127620
+True Lies,1994,Action|Comedy|Thriller,146282411
+The Taking of Pelham 1 2 3,2009,Action|Crime|Thriller,65452312
+Little Fockers,2010,Comedy|Romance,148383780
+The Other Guys,2010,Action|Comedy|Crime,119219978
+Eraser,1996,Action|Drama|Mystery|Thriller,101228120
+Django Unchained,2012,Drama|Western,162804648
+The Hunchback of Notre Dame,1996,Animation|Drama|Family|Musical|Romance,100117603
+The Emperor's New Groove,2000,Adventure|Animation|Comedy|Family|Fantasy,89296573
+The Expendables 2,2012,Action|Adventure|Thriller,85017401
+National Treasure,2004,Action|Adventure|Comedy|Family|Mystery,173005002
+Eragon,2006,Action|Adventure|Family|Fantasy,75030163
+Where the Wild Things Are,2009,Adventure|Drama|Family|Fantasy,77222184
+Pan,2015,Adventure|Family|Fantasy,34964818
+Epic,2013,Adventure|Animation|Family|Fantasy,107515297
+The Tourist,2010,Action|Romance|Thriller,67631157
+End of Days,1999,Action|Fantasy|Horror|Mystery,66862068
+Blood Diamond,2006,Adventure|Drama|Thriller,57366262
+The Wolf of Wall Street,2013,Biography|Comedy|Crime|Drama,116866727
+Batman Forever,1995,Action|Adventure|Fantasy,184031112
+Starship Troopers,1997,Action|Sci-Fi|War,54700065
+Cloud Atlas,2012,Drama|Sci-Fi,27098580
+Legend of the Guardians: The Owls of Ga'Hoole,2010,Action|Adventure|Animation|Family|Fantasy,55673333
+Catwoman,2004,Action|Crime|Fantasy|Romance|Thriller,40198710
+Hercules,2014,Action|Adventure,72660029
+Treasure Planet,2002,Adventure|Animation|Family|Sci-Fi,38120554
+Land of the Lost,2009,Adventure|Comedy|Sci-Fi,49392095
+The Expendables 3,2014,Action|Adventure|Thriller,39292022
+Point Break,2015,Action|Crime|Sport|Thriller,28772222
+Son of the Mask,2005,Comedy|Family|Fantasy,17010646
+In the Heart of the Sea,2015,Action|Adventure|Biography|Drama|History|Thriller,24985612
+The Adventures of Pluto Nash,2002,Action|Comedy|Sci-Fi,4411102
+Green Zone,2010,Action|Drama|Thriller|War,35024475
+The Peanuts Movie,2015,Adventure|Animation|Comedy|Family,130174897
+The Spanish Prisoner,1997,Drama|Mystery|Thriller,10200000
+The Mummy Returns,2001,Action|Adventure|Fantasy|Thriller,202007640
+Gangs of New York,2002,Crime|Drama,77679638
+The Flowers of War,2011,Drama|History|Romance|War,9213
+Surf's Up,2007,Animation|Comedy|Family|Sport,58867694
+The Stepford Wives,2004,Comedy|Sci-Fi|Thriller,59475623
+Black Hawk Down,2001,Drama|History|War,108638745
+The Campaign,2012,Comedy,86897182
+The Fifth Element,1997,Action|Adventure|Sci-Fi,63540020
+Sex and the City 2,2010,Comedy|Drama|Romance,95328937
+The Road to El Dorado,2000,Adventure|Animation|Comedy|Family|Romance,50802661
+Ice Age: Continental Drift,2012,Adventure|Animation|Comedy|Family,161317423
+Cinderella,2015,Drama|Family|Fantasy|Romance,201148159
+The Lovely Bones,2009,Drama|Fantasy|Thriller,43982842
+Finding Nemo,2003,Adventure|Animation|Comedy|Family,380838870
+The Lord of the Rings: The Return of the King,2003,Action|Adventure|Drama|Fantasy,377019252
+The Lord of the Rings: The Two Towers,2002,Action|Adventure|Drama|Fantasy,340478898
+Seventh Son,2014,Action|Adventure|Fantasy,17176900
+Lara Croft: Tomb Raider,2001,Action|Adventure|Fantasy|Thriller,131144183
+Transcendence,2014,Drama|Mystery|Romance|Sci-Fi|Thriller,23014504
+Jurassic Park III,2001,Action|Adventure|Sci-Fi|Thriller,181166115
+Rise of the Planet of the Apes,2011,Action|Drama|Sci-Fi|Thriller,176740650
+The Spiderwick Chronicles,2008,Adventure|Family|Fantasy,71148699
+A Good Day to Die Hard,2013,Action|Thriller,67344392
+The Alamo,2004,Drama|History|War|Western,22406362
+The Incredibles,2004,Action|Adventure|Animation|Family,261437578
+Cutthroat Island,1995,Action|Adventure|Comedy,11000000
+Percy Jackson & the Olympians: The Lightning Thief,2010,Adventure|Family|Fantasy,88761720
+Men in Black,1997,Adventure|Comedy|Family|Mystery|Sci-Fi,250147615
+Toy Story 2,1999,Adventure|Animation|Comedy|Family|Fantasy,245823397
+Unstoppable,2010,Action|Thriller,81557479
+Rush Hour 2,2001,Action|Comedy|Crime|Thriller,226138454
+What Lies Beneath,2000,Drama|Fantasy|Horror|Mystery|Thriller,155370362
+Cloudy with a Chance of Meatballs,2009,Animation|Comedy|Family|Sci-Fi,124870275
+Ice Age: Dawn of the Dinosaurs,2009,Action|Adventure|Animation|Comedy|Family,196573705
+The Secret Life of Walter Mitty,2013,Adventure|Comedy|Drama|Fantasy|Romance,58229120
+Charlie's Angels,2000,Action|Adventure|Comedy|Crime|Thriller,125305545
+The Departed,2006,Crime|Drama|Thriller,132373442
+Mulan,1998,Adventure|Animation|Family|Fantasy|Musical|War,120618403
+Tropic Thunder,2008,Action|Comedy,110416702
+The Girl with the Dragon Tattoo,2011,Crime|Drama|Mystery|Thriller,102515793
+Die Hard with a Vengeance,1995,Action|Adventure|Thriller,100012500
+Sherlock Holmes,2009,Action|Adventure|Crime|Mystery|Thriller,209019489
+Atlantis: The Lost Empire,2001,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,84037039
+Alvin and the Chipmunks: The Road Chip,2015,Adventure|Animation|Comedy|Family|Fantasy|Music,85884815
+Valkyrie,2008,Drama|History|Thriller|War,83077470
+You Don't Mess with the Zohan,2008,Action|Comedy,100018837
+Pixels,2015,Action|Animation|Comedy|Sci-Fi,78747585
+A.I. Artificial Intelligence,2001,Adventure|Drama|Sci-Fi,78616689
+The Haunted Mansion,2003,Comedy|Family|Fantasy|Horror|Mystery,75817994
+Contact,1997,Drama|Mystery|Sci-Fi|Thriller,100853835
+Hollow Man,2000,Action|Horror|Sci-Fi|Thriller,73209340
+The Interpreter,2005,Crime|Mystery|Thriller,72515360
+Percy Jackson: Sea of Monsters,2013,Adventure|Family|Fantasy,68558662
+Lara Croft Tomb Raider: The Cradle of Life,2003,Action|Adventure|Fantasy,65653758
+Now You See Me 2,2016,Action|Adventure|Comedy|Crime|Mystery|Thriller,64685359
+The Saint,1997,Action|Adventure|Romance|Sci-Fi|Thriller,61355436
+Spy Game,2001,Action|Crime|Thriller,26871
+Mission to Mars,2000,Adventure|Sci-Fi|Thriller,60874615
+Rio,2011,Adventure|Animation|Comedy|Family|Musical,143618384
+Bicentennial Man,1999,Comedy|Drama|Sci-Fi,58220776
+Volcano,1997,Action|Drama|Sci-Fi|Thriller,47474112
+The Devil's Own,1997,Action|Crime|Drama|Thriller,42877165
+K-19: The Widowmaker,2002,Drama|History|Thriller|War,35168677
+Fantastic Four,2015,Action|Adventure|Sci-Fi,56114221
+Conan the Barbarian,1982,Adventure|Fantasy,37567440
+Cinderella Man,2005,Biography|Drama|Sport,61644321
+The Nutcracker in 3D,2010,Action|Family|Fantasy|Musical,190562
+Seabiscuit,2003,Drama|History|Sport,120147445
+Twister,1996,Action|Adventure|Drama|Thriller,241688385
+The Fast and the Furious,2001,Action|Crime|Thriller,144512310
+Cast Away,2000,Adventure|Drama|Romance,233630478
+Happy Feet,2006,Animation|Comedy|Family|Music|Romance,197992827
+The Bourne Supremacy,2004,Action|Mystery|Thriller,176049130
+Air Force One,1997,Action|Adventure|Drama|Thriller,172620724
+Ocean's Eleven,2001,Crime|Thriller,183405771
+The Three Musketeers,2011,Action|Adventure|Romance,20315324
+Hotel Transylvania,2012,Animation|Comedy|Family|Fantasy,148313048
+Enchanted,2007,Animation|Comedy|Family|Fantasy|Musical|Romance,127706877
+Safe House,2012,Action|Crime|Mystery|Thriller,126149655
+102 Dalmatians,2000,Adventure|Comedy|Family,66941559
+Tower Heist,2011,Action|Comedy|Crime,78009155
+The Holiday,2006,Comedy|Romance,63224849
+Enemy of the State,1998,Action|Crime|Drama|Mystery|Thriller,111544445
+It's Complicated,2009,Comedy|Drama|Romance,112703470
+Ocean's Thirteen,2007,Crime|Thriller,117144465
+Open Season,2006,Adventure|Animation|Comedy|Family,84303558
+Divergent,2014,Adventure|Mystery|Sci-Fi,150832203
+Enemy at the Gates,2001,Drama|History|War,51396781
+The Rundown,2003,Action|Adventure|Comedy|Thriller,47592825
+Last Action Hero,1993,Action|Adventure|Comedy|Fantasy,50016394
+Memoirs of a Geisha,2005,Drama|Romance,57010853
+The Fast and the Furious: Tokyo Drift,2006,Action|Crime|Thriller,62494975
+Arthur Christmas,2011,Adventure|Animation|Comedy|Family|Fantasy,46440491
+Meet Joe Black,1998,Drama|Fantasy|Romance,44606335
+Collateral Damage,2002,Action|Drama|Thriller,40048332
+Mirror Mirror,2012,Adventure|Comedy|Drama|Family|Fantasy,64933670
+Scott Pilgrim vs. the World,2010,Action|Comedy|Fantasy|Romance,31494270
+The Core,2003,Action|Adventure|Sci-Fi|Thriller,31111260
+Nutty Professor II: The Klumps,2000,Comedy|Romance|Sci-Fi,123307945
+Scooby-Doo,2002,Adventure|Comedy|Mystery,153288182
+Dredd,2012,Action|Sci-Fi,13401683
+Click,2006,Comedy|Drama|Fantasy|Romance,137340146
+Cats & Dogs: The Revenge of Kitty Galore,2010,Action|Comedy|Family|Fantasy,43575716
+Jumper,2008,Action|Adventure|Sci-Fi|Thriller,80170146
+Hellboy II: The Golden Army,2008,Action|Adventure|Fantasy|Horror|Sci-Fi,75754670
+Zodiac,2007,Crime|Drama|History|Mystery|Thriller,33048353
+The 6th Day,2000,Action|Mystery|Sci-Fi|Thriller,34543701
+Bruce Almighty,2003,Comedy|Drama,242589580
+The Expendables,2010,Action|Adventure|Thriller,102981571
+Mission: Impossible,1996,Action|Adventure|Thriller,180965237
+The Hunger Games,2012,Adventure|Drama|Sci-Fi|Thriller,407999255
+The Hangover Part II,2011,Comedy,254455986
+Batman Returns,1992,Action,162831698
+Over the Hedge,2006,Adventure|Animation|Comedy|Family,155019340
+Lilo & Stitch,2002,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,145771527
+Deep Impact,1998,Action|Drama|Romance|Sci-Fi|Thriller,140459099
+RED 2,2013,Action|Comedy|Crime|Thriller,53215979
+The Longest Yard,2005,Comedy|Crime|Sport,158115031
+Alvin and the Chipmunks: Chipwrecked,2011,Adventure|Animation|Comedy|Family|Fantasy|Music,133103929
+Grown Ups 2,2013,Comedy,133668525
+Get Smart,2008,Action|Adventure|Comedy,130313314
+Something's Gotta Give,2003,Comedy|Drama|Romance,124590960
+Shutter Island,2010,Mystery|Thriller,127968405
+Four Christmases,2008,Comedy|Drama|Romance,120136047
+Robots,2005,Adventure|Animation|Comedy|Family|Sci-Fi,128200012
+Face/Off,1997,Action|Crime|Sci-Fi|Thriller,112225777
+Bedtime Stories,2008,Comedy|Family|Fantasy|Romance,109993847
+Road to Perdition,2002,Crime|Drama|Thriller,104054514
+Just Go with It,2011,Comedy|Romance,103028109
+Con Air,1997,Action|Crime|Thriller,101087161
+Eagle Eye,2008,Action|Mystery|Thriller,101111837
+Cold Mountain,2003,Adventure|Drama|History|Romance|War,95632614
+The Book of Eli,2010,Action|Adventure|Drama|Thriller,94822707
+Flubber,1997,Comedy|Family|Sci-Fi,92969824
+The Haunting,1999,Fantasy|Horror|Mystery|Thriller,91188905
+Space Jam,1996,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,90443603
+The Pink Panther,2006,Adventure|Comedy|Crime|Family|Mystery,82226474
+The Day the Earth Stood Still,2008,Drama|Sci-Fi|Thriller,79363785
+Conspiracy Theory,1997,Action|Crime|Mystery|Romance|Thriller,76081498
+Fury,2014,Action|Drama|War,85707116
+Six Days Seven Nights,1998,Action|Adventure|Comedy|Romance,74329966
+Yogi Bear,2010,Adventure|Animation|Comedy|Family,100169068
+Spirit: Stallion of the Cimarron,2002,Adventure|Animation|Family|Western,73215310
+Zookeeper,2011,Comedy|Family|Romance,80360866
+Lost in Space,1998,Action|Adventure|Family|Sci-Fi|Thriller,69102910
+The Manchurian Candidate,2004,Drama|Mystery|Sci-Fi|Thriller,65948711
+Hotel Transylvania 2,2015,Animation|Comedy|Family|Fantasy,169692572
+Fantasia 2000,1999,Animation|Family|Fantasy|Music,60507228
+The Time Machine,2002,Action|Adventure|Sci-Fi,56684819
+Mighty Joe Young,1998,Action|Adventure|Family|Fantasy|Thriller,50628009
+Swordfish,2001,Action|Crime|Thriller,69772969
+The Legend of Zorro,2005,Action|Adventure|Western,45356386
+What Dreams May Come,1998,Drama|Fantasy|Romance,55350897
+Little Nicky,2000,Comedy|Fantasy,39442871
+The Brothers Grimm,2005,Action|Adventure|Comedy|Fantasy|Thriller,37899638
+Mars Attacks!,1996,Action|Comedy|Sci-Fi,37754208
+Surrogates,2009,Action|Sci-Fi|Thriller,38542418
+Thirteen Days,2000,Drama|History|Thriller,34566746
+Daylight,1996,Action|Adventure|Drama|Thriller,32885565
+Walking with Dinosaurs 3D,2013,Adventure|Animation|Family,36073232
+Battlefield Earth,2000,Action|Adventure|Sci-Fi,21471685
+Looney Tunes: Back in Action,2003,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,20950820
+Nine,2009,Drama|Musical|Romance,19673424
+Timeline,2003,Action|Adventure|Sci-Fi,19480739
+The Postman,1997,Action|Adventure|Drama|Sci-Fi,17593391
+Babe: Pig in the City,1998,Adventure|Comedy|Drama|Family|Fantasy,18318000
+The Last Witch Hunter,2015,Action|Adventure|Fantasy,27356090
+Red Planet,2000,Action|Sci-Fi|Thriller,17473245
+Arthur and the Invisibles,2006,Adventure|Animation|Family|Fantasy,15131330
+Oceans,2009,Documentary|Drama,19406406
+A Sound of Thunder,2005,Action|Adventure|Horror|Sci-Fi|Thriller,1891821
+Pompeii,2014,Action|Adventure|Drama|History|Romance,23219748
+A Beautiful Mind,2001,Biography|Drama,170708996
+The Lion King,1994,Adventure|Animation|Drama|Family|Musical,422783777
+Journey 2: The Mysterious Island,2012,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,103812241
+Cloudy with a Chance of Meatballs 2,2013,Animation|Comedy|Family|Fantasy|Sci-Fi,119793567
+Red Dragon,2002,Crime|Drama|Thriller,92930005
+Hidalgo,2004,Action|Adventure|Western,67286731
+Jack and Jill,2011,Comedy,74158157
+2 Fast 2 Furious,2003,Action|Crime|Thriller,127083765
+The Little Prince,2015,Adventure|Animation|Drama|Family|Fantasy,1339152
+The Invasion,2007,Sci-Fi|Thriller,15071514
+The Adventures of Rocky & Bullwinkle,2000,Adventure|Animation|Comedy|Family|Fantasy,26000610
+The Secret Life of Pets,2016,Animation|Comedy|Family,323505540
+The League of Extraordinary Gentlemen,2003,Action|Adventure|Fantasy|Sci-Fi,66462600
+Despicable Me 2,2013,Animation|Comedy|Family|Sci-Fi,368049635
+Independence Day,1996,Action|Adventure|Sci-Fi,306124059
+The Lost World: Jurassic Park,1997,Action|Adventure|Sci-Fi,229074524
