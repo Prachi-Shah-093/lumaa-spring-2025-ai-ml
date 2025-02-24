@@ -1,28 +1,26 @@
 🎬 Movie Recommendation System
-Prachi Shah | Arizona State University | 📧 ppshah@asu.edu | LinkedIn: https://www.linkedin.com/in/prachi-shah-04ba66203/
+Prachi Shah | Arizona State University | 📧 ppshah@asu.edu | [LinkedIn](https://www.linkedin.com/in/prachi-shah-04ba66203/): 
 
 📌 Dataset Source
 After searching online, I found a dataset on DoltHub, which filters through public datasets. The specific dataset I used is publicly available on GitHub:
-🔗 Netflix/metaflow - movies.csv: https://github.com/Netflix/metaflow/blob/master/metaflow/tutorials/01-playlist/movies.csv
+🔗 [Netflix/metaflow - movies.csv ](https://github.com/Netflix/metaflow/blob/master/metaflow/tutorials/01-playlist/movies.csv)
 ⚠ NOTE: The original dataset was too large. It has been reduced to 500 rows (without sorting) to meet challenge specifications.
 
 🛠 Setup Guide (Windows OS)
 🔹 Python Version
 
-    Python 3.13.2
-    Follow this guide to download and install the latest Python version: 
+    Python 3.13.2 
 
 🔹 Dependencies
 
 Run the following command to install required dependencies:
 
-pip install pandas scikit-learn
+    install pandas scikit-learn 
 
 🔹 IDE: Visual Studio Code
 
 I used VS Code for this project. To set up Python in VS Code, follow the official guide:
-🔗 Install VS Code on Windows
-    https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows
+🔗 [Install VS Code on Windows]([url](https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows))
     
 🔹 Extensions (Recommended)
 
