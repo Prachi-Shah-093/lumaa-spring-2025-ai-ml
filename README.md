@@ -9,15 +9,15 @@ Prachi Shah | Arizona State University | ppshah@asu.edu | LinkedIn: https://www.
 
 2) Setup (Windows OS)
 
-    - Python Version: 3.13.2
+    - Python Version: 3.13.2:
     I used the following link's instructions to download and install the latest Python version:
     https://www.pythoncentral.io/how-to-update-python/
 
-    - Python Dependencies
+    - Python Dependencies:
     Make sure to run the following dependencies for the code to run:
         pip install pandas scikit-learn
 
-    - IDE: Visual Studio Code
+    - IDE: Visual Studio Code:
     My choice of IDE was V.S. Code. The following link has a list of instructions to run python code for this IDE:
     https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows
 
